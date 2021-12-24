@@ -1,0 +1,6 @@
+cust_id,cust_firstname,cust_lastname,cust_address,cust_phone,cust_email,cust_status,cust_date_created,cust_date_updated
+1,Rodrigo,Aguirre,"Bagong Calzada, Taguig City, Philippines, 1632",09399187800,raguirrejunior@gmail.com,Active,"2021-12-20 21:08:52","2021-12-24 07:50:03"
+2,Rodrigo,Aguirre,"Bagong Calzada, Taguig City, Philippines, 1632",09399187800,raguirrejunior@gmail.com,Active,"2021-12-23 22:09:12","2021-12-24 07:50:03"
+3,Rodrigo,"Aguirre Jr.","Taguig City",09399187800,raguirrejr@yahoo.com,Active,"2021-12-24 07:38:03","2021-12-24 07:50:03"
+4,Neliza,Aguirre,"Calamba City, Laguna",09399187800,neliza1011@yahoo.com,Active,"2021-12-24 07:38:38","2021-12-24 07:50:03"
+5,Neliza,Aguirre,"Taguig City, Philippines 1632",09399187800,neliza@hotmail.com,Active,"2021-12-24 07:39:18","2021-12-24 07:50:03"

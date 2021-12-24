@@ -8,5 +8,11 @@ router.get('/', custController.view);
 router.post('/', custController.find);
 router.get('/addcust', custController.form);
 router.post('/addcust', custController.create);
+router.get('/editcust/:id', custController.edit);
+router.post('/editcust/:id', custController.update);
+router.get('/viewcust/:id', custController.viewall);
+router.get('/:id', custController.delete);
+
+
 
 module.exports = router;
